@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns="urn:partner.soap.sforce.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <soapenv:Body>
+        <loginResponse>
+            <result>
+                <metadataServerUrl>https://heidelberg--hddevasc.my.salesforce.com/services/Soap/m/42.0/00D5E000000Diiw</metadataServerUrl>
+                <passwordExpired>false</passwordExpired>
+                <sandbox>true</sandbox>
+                <serverUrl>https://heidelberg--hddevasc.my.salesforce.com/services/Soap/u/42.0/00D5E000000Diiw</serverUrl>
+                <sessionId>00D5E000000Diiw!AQUAQBb6wYncq2q7khVif7Y5GFcw3L1BaRkzh5FQdqI1Nk2dfzFoGQjjaIRNKS7nqfUCIQ8_aN.i32msli_xniTXN1VE2xta</sessionId>
+                <userId>0052p000008RJiaAAG</userId>
+                <userInfo>
+                    <accessibilityMode>false</accessibilityMode>
+                    <chatterExternal>false</chatterExternal>
+                    <currencySymbol>€</currencySymbol>
+                    <orgAttachmentFileSizeLimit>5242880</orgAttachmentFileSizeLimit>
+                    <orgDefaultCurrencyIsoCode>EUR</orgDefaultCurrencyIsoCode>
+                    <orgDefaultCurrencyLocale>de_DE_EURO</orgDefaultCurrencyLocale>
+                    <orgDisallowHtmlAttachments>false</orgDisallowHtmlAttachments>
+                    <orgHasPersonAccounts>false</orgHasPersonAccounts>
+                    <organizationId>00D5E000000DiiwUAC</organizationId>
+                    <organizationMultiCurrency>false</organizationMultiCurrency>
+                    <organizationName>Heidelberger Druckmaschinen AG</organizationName>
+                    <profileId>00e2p000001JjgjAAC</profileId>
+                    <roleId xsi:nil="true" />
+                    <sessionSecondsValid>7200</sessionSecondsValid>
+                    <userDefaultCurrencyIsoCode xsi:nil="true" />
+                    <userEmail>andre.schuengel@heidelberg.com</userEmail>
+                    <userFullName>André Schüngel</userFullName>
+                    <userId>0052p000008RJiaAAG</userId>
+                    <userLanguage>en_US</userLanguage>
+                    <userLocale>de_DE_EURO</userLocale>
+                    <userName>aschuengel@heidelberg.com.hddevasc</userName>
+                    <userTimeZone>Europe/Berlin</userTimeZone>
+                    <userType>Standard</userType>
+                    <userUiSkin>Theme3</userUiSkin>
+                </userInfo>
+            </result>
+        </loginResponse>
+    </soapenv:Body>
+</soapenv:Envelope>
